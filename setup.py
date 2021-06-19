@@ -13,7 +13,7 @@ keywords = ['image', 'converter', 'jpg', 'png' ,'jpeg' ,'jpeg to png', 'jpg to p
 
 setup(
     name="ImageConverter",
-    version= "1.0.4",
+    version= "1.0.7",
     description="A python package for converting .jpg and .jpeg file formats to .png",
     long_description=readme(),
     long_description_content_type="text/markdown",
@@ -25,7 +25,9 @@ setup(
     license="MIT",
     classifiers=[
         "License :: OSI Approved :: MIT License",
-        "Programming Language :: Python :: 3"
+        "Programming Language :: Python :: 3",
+        "Programming Language :: Python :: 3.7",
+        "Programming Language :: Python :: 3.8"
     ],
     packages=["ImageConverter"], #modules 
     include_package_data=False,
