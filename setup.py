@@ -13,7 +13,7 @@ keywords = ['image', 'converter', 'jpg', 'png' ,'jpeg' ,'jpeg to png', 'jpg to p
 
 setup(
     name="ImageConverter",
-    version= "1.0.1",
+    version= "1.0.4",
     description="A python package for converting .jpg and .jpeg file formats to .png",
     long_description=readme(),
     long_description_content_type="text/markdown",
