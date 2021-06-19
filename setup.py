@@ -25,9 +25,7 @@ setup(
     license="MIT",
     classifiers=[
         "License :: OSI Approved :: MIT License",
-        "Programming Language :: Python :: 3.x",
-        "Programming Language :: Python :: 3.7.x",
-        "Programming Language :: Python :: 3.8.x",
+        "Programming Language :: Python :: 3"
     ],
     packages=["ImageConverter"], #modules 
     include_package_data=False,
