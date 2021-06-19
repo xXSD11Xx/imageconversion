@@ -18,7 +18,7 @@ setup(
     long_description=readme(),
     long_description_content_type="text/markdown",
     contact_email = 'dailycodingpro@gmail.com',
-    url="",
+    url="https://github.com/xXSD11Xx/imageconversion",
     author="xXSDXx",
     author_email="dailycodingpro@gmail.com",
     keywords = keywords,
