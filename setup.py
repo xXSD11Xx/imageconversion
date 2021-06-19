@@ -34,7 +34,7 @@ setup(
     install_requires=["pillow (PIL)"], #3rd party install requirements
     entry_points={
         "console_scripts": [
-            "image_conversion=ImageConverter.cli:main",
+            "imageconversion=ImageConverter.cli:main",
         ]
     },
 )
